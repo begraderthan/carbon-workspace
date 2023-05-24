@@ -8,11 +8,11 @@ Below is a 3-4 week outlook of an ever-changing list of tasks to be completed. T
 
 - [X] C/C++ Image does not start. **Fixed 1/17/22**
 - [X] Create an SQL Image with a preconfigured MySQL Workbench. Student setup instructions can be found [here](https://docs.google.com/document/d/1RXFXzZMmjHMT8qUcnVzjiHxAvPWihPI2piKpMTpJOFM/edit). **Completed 1/17/22**
-- [ ] Preconfigure the C/C++ image to be able to run multiple files. 
-- [ ] Automatically remove core dumps in the user directory.
-- [ ] Preconfigure all workspaces to run code from the terminal instead of output. 
-- [ ] Update VNC library to possibly resolve dissaperaing mouse issue. 
-- [ ] Workspace timing issues related to when the user starts and stop a workspace rapidly.  
+- [X] Preconfigure the C/C++ image to be able to run multiple files. 
+- [X] Automatically remove core dumps in the user directory.
+- [X] Preconfigure all workspaces to run code from the terminal instead of output. 
+- [x] Update VNC library to possibly resolve dissaperaing mouse issue. 
+- [X] Workspace timing issues related to when the user starts and stop a workspace rapidly.  
 
 # How To Make A Post?
 
